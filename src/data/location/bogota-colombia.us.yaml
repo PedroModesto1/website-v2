@@ -27,11 +27,11 @@ button:
   cohort_more_details_text: "DETAILS"
 
 custom_bar:
-  active: false
-  message: Lorem ipsum dot simet mosd ei
-  button: 
-    label: "Read More"
-    path: "#" #string (can be inline path using #, relative path or absolute path)
+  active: true
+  message: <a class="customBar-link" href="https://4geeksacademy.com/us/apply?utm_source=website&utm_medium=custom_bar&utm_campaign=custom_bar_bogota" taget="_blank" rel="noopener noreferrer nofollow">Request</a>more info about our financing plans
+  # button: 
+    # label: "Read More"
+    # path: "#" #string (can be inline path using #, relative path or absolute path)
 
 badges:
   title: ""
