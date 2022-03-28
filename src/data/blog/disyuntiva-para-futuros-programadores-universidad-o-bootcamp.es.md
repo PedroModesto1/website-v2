@@ -32,6 +32,7 @@ Jaime Soto, presidente de la Asociación Chilena de Empresas de tecnologías de 
 En ese mismo [reportaje](https://www.latercera.com/noticia/negocios/2013/03/655-515593-9-falta-de-profesionales-informaticos-baja-competitividad-de-chile.shtml), Benjamín Tosseli, socio de IT Hunter, y ex director de la GECHS (Asociación de Desarrolladores de Software), indica que “la escasez de profesionales presiona el salario de los informáticos hacia arriba. Entre el año 2011 y 2012, dice, las rentas “subieron entre un 15% y un 25%”, recalcando que “es el año que más subieron”.
 
 ¿Datos más contundentes? Un estudio realizado por el Instituto Global McKinsey, destaca que para el año 2020 habrá una carencia de 45 millones de profesionales medios en países en vías de desarrollo.
+<call-to-action button_text="Ver programa" button_link="#" background="rgba(0, 151, 205, 0.15)" title="Impulsa tu carrera, gracias a la programación" text="Te invitamos a impulsa tu carrera, aprendiendo a programar con nuestro Programa Full Stack Developer."></call-to-action>
 
 **¿Pueden las Universidades resolver el déficit?**
 
