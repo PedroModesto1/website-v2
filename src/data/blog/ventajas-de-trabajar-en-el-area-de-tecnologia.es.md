@@ -38,6 +38,8 @@ Otro beneficio que tiene el sector de la tecnología, en especial, el área de l
 
 Cuando eres programador, tienes la posibilidad de ganar dinero de muchas formas diferentes. La primera de todas, es incorporarte a una empresa e ir consolidándote poco a poco, sin embargo, hay más opciones como trabajar en otros proyectos y convertirte en programador autónomo, una opción que a la larga te lleva a tener muchísima experiencia y a ser muy valorado en el futuro, es decir, puedes trabajar en distintas compañías o de forma independiente.
 
+<call-to-action button_text="Ver programa" button_link="/es/coding-bootcamps/full-stack-part-time" background="rgba(0, 151, 205, 0.15)" title="Impulsa tu carrera, gracias a la programación" text="Te invitamos a impulsa tu carrera, aprendiendo a programar con nuestro Programa Full Stack Developer."></call-to-action>
+
 También tienes la opción de convertir tus propias ideas en algo que genere dinero. Imagínate que se te ocurre montar una agencia de viajes y quieres crear un sistema para atender a tus clientes que te permita hacerle seguimiento a los viajes de tus clientes, (fechas, destinos, etc) y que de esta forma puedas preparar ofertas para fechas específicas y así, impulsar tu proyecto. Este es un ejemplo de los millones que existen, así que activa tu brainstorming.
 
 La pregunta del millón ¿Cuáles son las competencias requeridas para este tipo de empleos?
