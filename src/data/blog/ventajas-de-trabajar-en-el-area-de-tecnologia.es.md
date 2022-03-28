@@ -42,6 +42,8 @@ También tienes la opción de convertir tus propias ideas en algo que genere din
 
 La pregunta del millón ¿Cuáles son las competencias requeridas para este tipo de empleos?
 
+<call-to-action button_text="Ver programa" button_link="#" background="rgba(0, 151, 205, 0.15)" title="Impulsa tu carrera, gracias a la programación" text="Te invitamos a impulsa tu carrera, aprendiendo a programar con nuestro Programa Full Stack Developer."></call-to-action>
+
 En este 2021, un 20% de los empleos para back-end están solicitando Python, por otro lado, a nivel de front-end casi el 100% están solicitando el manejo de JavaScript.  Ambos lenguajes están siendo muy demandados. Un aspecto a resaltar es que, JavaScript está teniendo gran protagonismo, ya que, se está valorando mucho React y Node.js, como plataforma de back-end, cuya curva de aprendizaje no es tan complicada.
 
 Ahora, más allá de los requerimientos a nivel técnico, también se requieren ciertas cualidades para poder ser programador, como por ejemplo:
